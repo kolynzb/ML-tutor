@@ -1,0 +1,11 @@
+# Artificial Intelligence
+
+- Simply stated AI is intelligent behavior by machines.So any device that can perceive its environment and take actions accordingly has ai.By using AI a machine can mimic [cognitive Human functions](https://www.learningrx.com/what-are-cognitive-skills/#:~:text=Cognitive%20skills%20are%20the%20core,at%20work%2C%20and%20in%20life.) like learing and problem solving.
+- But for a machine to mimic human intelligence it must be provided with information from the real world. (_Inorder to mimic human intelligence AI relys on [knowledge engineering](https://www.techtarget.com/searchenterpriseai/definition/knowledge-engineering#:~:text=Knowledge%20engineering%20is%20a%20field,their%20programmed%20field%20of%20knowledge.)_).This is basically feeding a machine with data(human expertise) and making sure that is comes up with a decision that a human would.This process is called the modeling process. The [model](https://viso.ai/deep-learning/ml-ai-models/) which is basically your software algorithm is consistently refined until it decisions are close those of humans , if the decision is not consistent with human decisions we go back and debug it .
+
+### Machine Learning & Deep Learning.
+
+- ML AND DL are subsets of AI.
+  `AI --> ML --> DL`. You can create an AI system a software to predict users actions and give recommendations. 
+- ML is often deployed when explicit programming is too rigid and impractical.Unlike regular code ML generates statistical code that will output the right result based on the partern recognised in the data input.It recognises parterns in data using algorithms then uses those patterns to predict the future outcomes.These predictions are used to make a decision about the next step for the ML to take, the decision is then evaluted and added to the pool of data.
+- DL takes ML a step further , rather than telling a machine the features to look for DL enables a machine to define the features it needs to look for based on the data.for example ML is given a square and rectangle and told to find what shape your showing it based on data you gave it. Dl shows machines several examples of rectangles and anaylses those examples and the common features of a rectangle .The Human brain solves this will neurons wheres machines use artificial neural networks.
