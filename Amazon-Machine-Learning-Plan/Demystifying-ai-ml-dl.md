@@ -2,7 +2,7 @@
 
 - Simply stated AI is intelligent behavior by machines.So any device that can perceive its environment and take actions accordingly has ai.By using AI a machine can mimic [cognitive Human functions](https://www.learningrx.com/what-are-cognitive-skills/#:~:text=Cognitive%20skills%20are%20the%20core,at%20work%2C%20and%20in%20life.) like learing and problem solving.
 - But for a machine to mimic human intelligence it must be provided with information from the real world. (_Inorder to mimic human intelligence AI relys on [knowledge engineering](https://www.techtarget.com/searchenterpriseai/definition/knowledge-engineering#:~:text=Knowledge%20engineering%20is%20a%20field,their%20programmed%20field%20of%20knowledge.)_).This is basically feeding a machine with data(human expertise) and making sure that is comes up with a decision that a human would.This process is called the modeling process. The [model](https://viso.ai/deep-learning/ml-ai-models/) which is basically your software algorithm is consistently refined until it decisions are close those of humans , if the decision is not consistent with human decisions we go back and debug it .
-
+h
 ### Machine Learning & Deep Learning.
 
 - ML AND DL are subsets of AI.
