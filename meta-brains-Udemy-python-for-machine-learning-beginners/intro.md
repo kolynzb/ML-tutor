@@ -13,3 +13,5 @@
 - **Matplotlib** - Is a plotting library,and it is easy to use with Numpy because its numeric is integrated with Numpy.
 - **Pandas** - Is Designed for data manipulation and analysis.In paticular , it offers data structures and operations for manipulating numerical tables and time series.
 - **SciKitLearn** (sklearn) - is a free software machine learning library for python programming language. It features various classification,regression and clustering algorithms.And it is designed to interoperate with the python numerical and scientific libraries Numpy and SciPy.
+
+# [last stop 0:36](https://cdn.xlstat.com/media/feature/0001/02/thumb_1381_feature_medium.png)
