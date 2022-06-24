@@ -1,5 +1,7 @@
 # Introduction To Machine Learning
 
+- [Click Me 😉 to get the Course](https://www.udemy.com/course/python-for-machine-learning-beginners/)
+
 ## What is Machine Learning
 
 ## Supervised VS Unsupervised Learning
