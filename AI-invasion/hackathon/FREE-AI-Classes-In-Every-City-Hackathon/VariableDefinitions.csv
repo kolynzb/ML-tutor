@@ -1,0 +1,9 @@
+VehicleID,This is the unique identifier of the car.
+Location,This is the location in Nigeria where the seller is based.
+Maker,This is the manufacturer of the car. It is the brand name.
+Model,This is the the name of the car product within a range of similar car products.
+Year,This is the year the car was manufactured.
+Colour,This is the colour of the car.
+Amount (Million Naira),This is the selling price of the car. It is the amount the company will sell the car.
+Type,"This is the nature of previous use of the car, whether it was previously used within Nigeria or outside Nigeria."
+Distance,This is the mileage of the car. It is how much distance it covered in its previous use
