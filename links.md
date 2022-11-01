@@ -2,3 +2,4 @@
 - https://www.kubeflow.org/docs/started/
 - https://roboflow.com/
 - https://www.redhat.com/en/topics/devops/what-cicd-pipeline#overview
+- https://plotly.com/
