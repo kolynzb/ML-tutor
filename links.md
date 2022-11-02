@@ -2,4 +2,5 @@
 - https://www.kubeflow.org/docs/started/
 - https://roboflow.com/
 - https://www.redhat.com/en/topics/devops/what-cicd-pipeline#overview
-- https://plotly.com/
+- [interactive visualization](https://plotly.com/)
+- [deep learning] (https://youtu.be/7sB052Pz0sQ)
