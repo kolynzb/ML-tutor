@@ -27,3 +27,5 @@
 - The t-SNE algorithm calculates a similarity measure between pairs of instances in the high dimensional space and in the low dimensional space. This is done by setting the probabilities from the low-dimensional space similar to those of the high-dimensional space. We measure the difference between the probability distributions of the two-dimensional spaces using Kullback-Leibler divergence and try to optimize it.
   ![alt](https://olympus.mygreatlearning.com/courses/74508/files/4905868/preview?verifier=gl6O10NcGdaQbpTcyWSNdZZ0N6KElJm791vD32qu)
   [Image Source (Links to an external site.)Links to an external site.](http://datasciencecornwall.blogspot.com/2020/04/visualising-high-dimensional-data-with.html)
+
+  
