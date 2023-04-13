@@ -3,4 +3,4 @@
 - https://roboflow.com/
 - https://www.redhat.com/en/topics/devops/what-cicd-pipeline#overview
 - [interactive visualization](https://plotly.com/)
-- [deep learning] (https://youtu.be/7sB052Pz0sQ)
+- [deep learning](https://youtu.be/7sB052Pz0sQ)
