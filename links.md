@@ -4,3 +4,7 @@
 - https://www.redhat.com/en/topics/devops/what-cicd-pipeline#overview
 - [interactive visualization](https://plotly.com/)
 - [deep learning](https://youtu.be/7sB052Pz0sQ)
+
+https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/
+https://github.com/mrdbourke/machine-learning-roadmap
+https://www.kaggle.com/general/217218
