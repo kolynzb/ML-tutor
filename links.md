@@ -8,3 +8,6 @@
 https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/
 https://github.com/mrdbourke/machine-learning-roadmap
 https://www.kaggle.com/general/217218
+
+
+https://multix.io/data-science-book-uva/docs/resources.html
